@@ -1,0 +1,19 @@
+User Manual:
+
+Requirements:
+
+Tensorflow ,keras
+sklearn,
+os ,
+
+
+Steps:
+
+Import the Data set using keras library
+preprocess - augment all using  Imagegenarator
+call the model from keras- efficient net-for feature extraction
+combile the model
+train the model using fit()
+predict the output using predict()
+validate the model using k fold validation
+ 
